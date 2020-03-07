@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to Addison Global Frontend Tech test.
+Welcome to GKMIT Frontend Tech test.
 
 The primary goal of this exercise is to assess how you reason about your ability to write clean, well tested and reusable code. There's no hard rules or tricky questions.
 
