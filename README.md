@@ -85,13 +85,6 @@ We like to write clean code using proper programming patterns and JavaScript bes
 **The provided screens are a wireframe, not a final design for the application.** You are expected to implement the user interface by yourself. The use of component libraries, like Material UI, might make this easier for you and is encouraged.
 
 
-## Few tips
-* Imagine this as a production level product at scale 😉
-* Structure! With great structure, comes great reusability!
-* Maybe You have an idea that is not in the task? Do it! It's on you!
-Have fun! 🎉🎉🎉
-
-
 ### Event List View
 
 * Initial View
@@ -125,3 +118,8 @@ We expect you to provide tests alongside your code. The minimum requirement is t
 * A README.md file explaining the decisions you've made solving this task including technology and library choices.
 * Any instructions required to run your solution and tests in a Linux environment.
 
+## Few tips
+* Imagine this as a production level product at scale 😉
+* Structure! With great structure, comes great reusability!
+* Maybe You have an idea that is not in the task? Do it! It's on you!
+Have fun! 🎉🎉🎉
